@@ -10,5 +10,5 @@ And to explore something more interesting, I discussed on the selection of value
 Project report included.
 
 ## Some Tips
-Datasets: ”exampledataset.txt”; ”iris.data”; ”data_banknote_authentication.txt”.
+Datasets: ”exampledataset.txt”; ”iris.data”; ”data_banknote_authentication.txt”.<br>
 Code related to the algorithm located in file "kmedoids.py".
