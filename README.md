@@ -11,4 +11,4 @@ Project report included.
 
 ## Some Tips
 Datasets: ”exampledataset.txt”; ”iris.data”; ”data_banknote_authentication.txt”.
-Code related to the algorithm located in file 
+Code related to the algorithm located in file "kmedoids.py".
